@@ -37,7 +37,7 @@ console.log(typeof(3)) //prints number
 //would be a float in C/C++
 console.log(typeof(3.14)) //prints number
 ```
-The `number` type in JavaScript is an 8 byte IEEE-754 float. Does this mean that our C/C++ code that uses ints get translated into an 8 byte double? Not exactly. JavaScript can actually handle numbers of different sizes and types. 
+The `number` type in JavaScript is an 8 byte IEEE-754 float. Does this mean that our C/C++ code that uses ints get translated into an 8 byte float? Not exactly. JavaScript can actually handle numbers of different sizes and types. 
 ```javascript
 //here is what the number type normally is
 console.log(Float64Array.BYTES_PER_ELEMENT)
@@ -65,5 +65,5 @@ Asm.js is an important tool to unlocking the power of the web. It's uses are end
 
 If you want to get started using asm.js for your next project, I recommend the [Emscripten tutorial](https://emscripten.org/docs/getting_started/Tutorial.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjcwNDM3MiwzMDc3MzQxOTddfQ==
+eyJoaXN0b3J5IjpbNTgwNDg3MTcsMzA3NzM0MTk3XX0=
 -->
