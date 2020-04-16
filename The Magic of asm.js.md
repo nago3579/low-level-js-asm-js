@@ -65,5 +65,5 @@ Asm.js is an important tool to unlocking the power of the web. It's uses are end
 
 If you want to get started using asm.js for your next project, I recommend the [Emscripten tutorial](https://emscripten.org/docs/getting_started/Tutorial.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNDg3MTcsMzA3NzM0MTk3XX0=
+eyJoaXN0b3J5IjpbNTgwNDg3MTddfQ==
 -->
